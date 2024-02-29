@@ -6,7 +6,7 @@ I wanted to show how Javascript can change the content of a simple html page. Wh
 
 The purpose of creating this software is to showcase my knowledge while learning Javascript.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/r9bTyZOB91g)
 
 # Development Environment
 
