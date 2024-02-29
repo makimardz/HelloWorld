@@ -2,7 +2,7 @@
 
 This is a demo of simple integration on Visual Studio Code, Github and Javascript.
 
-I wanted to show show Javascript can change the content of a simple html page. Where if you click on some the Javascript code will produce another outcome.
+I wanted to show how Javascript can change the content of a simple html page. Where if you click on some the Javascript code will produce another outcome.
 
 The purpose of creating this software is to showcase my knowledge while learning Javascript.
 
